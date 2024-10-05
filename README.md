@@ -1,4 +1,4 @@
-# FaceToCamera-Cutout-Shader-for-ME
+# FaceToCamera Cutout Shader for ME
 This is to let MaterialEditor show the FaceToCamera Shader's options on the tab.
 With using this shader on an object, it will show silhouette of the Vector Z (or the normal direction) of the object and it always faces to the camera or your view.
 
