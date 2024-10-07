@@ -55,6 +55,16 @@ After changing to **Particles/Billboarding Cutout Top**, the lines go to the fro
 
 ![AI_2024-10-07-13-19-48-302](https://github.com/user-attachments/assets/0c85d3eb-f565-4a26-a153-a3ef49baacd3)
 
+A more easy demonstration:
+
+Using Particles/Billboarding Cutout:
+
+![AI_2024-10-07-13-16-12-038](https://github.com/user-attachments/assets/4979b7d2-7e4d-40da-a9b9-dcc2051f5dd3)
+
+Changed to Particles/Billboarding Cutout Top:
+
+![AI_2024-10-07-13-16-24-816](https://github.com/user-attachments/assets/6c4b0208-712a-4af5-ac9d-6c95387cf07f)
+
 ## How to Install
 Download the .zipmod file for the latest version on the [Release](https://github.com/Blatke/Billboarding_Cutout_Shader_for_ME/releases) page, then drag and drop it into your **/mods/** folder, or use KKManager to install it.
 
